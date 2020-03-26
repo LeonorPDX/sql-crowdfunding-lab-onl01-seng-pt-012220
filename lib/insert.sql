@@ -7,6 +7,7 @@ INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) V
 INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES ();
 INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES ();
 INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES ();
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES ();
 INSERT INTO users (id, name, age) VALUES (1, "Leonor", 31);
 INSERT INTO users (id, name, age) VALUES (2, "Amanda", 29);
 INSERT INTO users (id, name, age) VALUES (3, "Adam", 20);
@@ -27,7 +28,6 @@ INSERT INTO users (id, name, age) VALUES (17, "Reggie", 47);
 INSERT INTO users (id, name, age) VALUES (18, "Carl", 48);
 INSERT INTO users (id, name, age) VALUES (19, "Maxine", 39);
 INSERT INTO users (id, name, age) VALUES (20, "Anita", 36);
-INSERT INTO users (id, name, age) VALUES ();
 INSERT INTO pledges (id, amount, user_id, project_id) VALUES ();
 INSERT INTO pledges (id, amount, user_id, project_id) VALUES ();
 INSERT INTO pledges (id, amount, user_id, project_id) VALUES ();
