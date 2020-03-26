@@ -30,3 +30,4 @@ INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) V
 INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (9, 'Waterfront Blues and Jazz Fest', 'festival', 800000, '03-05-2020', '05-01-2021');
 INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (10, 'Feed Birds Not Squirrels', 'animals', 5000, '03-25-2020', '10-01-2020');
 
+INSERT INTO pledges (id, amount, user_id, project_id) VALUES ();
